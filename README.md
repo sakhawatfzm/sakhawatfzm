@@ -29,8 +29,14 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawatfzm&layout=compact&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakhawatfzm&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakhawatfzm&show_icons=true&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakhawatfzm&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakhawatfzm&theme=dark)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakhawatfzm&theme=dark" alt="GitHub Streak" />
+</p>
