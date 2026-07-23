@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently focused on **Enterprise IT Infrastructure, Active Directory, and Failover Clustering**
 - 📝 I regularly build and document hands-on server environments on my GitHub to showcase practical implementations.
-- 📫 How to reach me: **sakhawathossain09q@gmail.com**
+- 📫 How to reach me: **sakhawat8910@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
