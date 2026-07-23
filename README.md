@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sakhawat Hossain</h1>
 <h3 align="center">A passionate Systems Administrator & IT Infrastructure Professional from Bangladesh</h3>
-<img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="IT Infrastructure" width="400">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="IT Infrastructure" width="150" height="150">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhawatfzm&label=Profile%20views&color=0e75b6&style=flat" alt="sakhawatfzm" /> </p>
 
@@ -8,7 +11,7 @@
 
 - 🔭 I’m currently focused on **Enterprise IT Infrastructure, Active Directory, and Failover Clustering**
 - 📝 I regularly build and document hands-on server environments on my GitHub to showcase practical implementations.
-- 📫 How to reach me: **sakhawat8910@gmail.com**
+- 📫 How to reach me: **sakhawathossain09q@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,8 +27,10 @@
   <img src="https://img.shields.io/badge/Networking-05122A?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking (DHCP/DNS)" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakhawatfzm&show_icons=true&locale=en&layout=compact" alt="sakhawatfzm" /></p>
+<h3 align="left">My GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakhawatfzm&show_icons=true&locale=en" alt="sakhawatfzm" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawatfzm&layout=compact&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakhawatfzm&" alt="sakhawatfzm" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakhawatfzm&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakhawatfzm&theme=dark)
